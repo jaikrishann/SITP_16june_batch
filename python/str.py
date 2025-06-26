@@ -68,3 +68,7 @@
 # [start:end:step/jump]
 # print(n1[2:8])
 # print(n1[::3])
+
+
+def adddfuntionisinstr(a,b):
+    return a+b
